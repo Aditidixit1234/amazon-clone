@@ -1,0 +1,50 @@
+.order{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+.order h1{
+    text-align: center;
+    padding: 10px;
+    font-weight: 400;
+    background-color: rgb(234,237,237);
+    border-bottom: 1px solid lightgray;
+}
+.div{
+   
+    padding: 20px;
+    margin: 0 20px;
+    border-bottom: 1px solid lightgray;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+
+    
+}
+.total_orders{
+    text-align: center;
+}
+.div2{
+    display: flex;
+}
+.div3{
+    margin-left: 15px;
+    margin-top: 22px;
+    margin-right: 20px;
+}
+h2{
+    margin-left: 18px;
+}
+
+.div5{
+    margin-left: 15px;
+    margin-top: 28px;
+    margin-right: 55px; 
+}
+.pay{
+    margin-left: 860px;
+    display: flex;
+}
+.div4{
+    margin-right: 20px;
+}
